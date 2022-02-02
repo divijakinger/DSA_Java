@@ -28,3 +28,13 @@ Linear Search Algo : https://youtu.be/_HRA37X8N_Q
 
 Lecture 9 :
 Binary Search Algo : https://youtu.be/f6UU7V3szVw
+
+Lecture 10 :
+Bubble Sort Algo : https://youtu.be/F5MZyqRp_IM
+
+Lecture 11 :
+Selection Sort Algo : https://youtu.be/Nd4SCCIHFWk
+
+Lecture 12 :
+Insertion Sort Algo : https://youtu.be/By_5-RRqVeE
+
